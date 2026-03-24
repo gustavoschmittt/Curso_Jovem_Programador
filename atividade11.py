@@ -1,0 +1,5 @@
+nome1 = input('Digite o seu nome: ')
+nome2 = input('Digite seu nome: ')
+tupla = (nome1, nome2)
+print(tupla)
+print('O tipo da tupla é: ', type(tupla))
